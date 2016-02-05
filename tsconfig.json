@@ -9,7 +9,6 @@
         "declaration": false,
         "noImplicitAny": false,
         "removeComments": true,
-        "outDir": "bin/dist/modules",
         "experimentalDecorators": true
     },
     "filesGlob": [
