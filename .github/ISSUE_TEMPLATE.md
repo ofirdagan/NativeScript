@@ -28,6 +28,7 @@ iOS/Android/Both
 project’s `package.json` file)
 
 ### Please tell us how to recreate the issue in as much detail as possible.
+Use free text. Include code and images if necessary.
 
 ### Is there code involved? If so, please share the minimal amount of code needed to recreate the problem.
 
