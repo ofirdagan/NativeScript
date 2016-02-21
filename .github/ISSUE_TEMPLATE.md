@@ -20,10 +20,10 @@ letter.
 iOS/Android/Both
 
 ### Please provide the following version numbers that your issue occurs with:
-CLI: (`run tns --version` to fetch it)
-Cross-platform modules: (check the 'version' attribute in the
-`node_modules/tns-core-modules/package.json` file in your project)
-Runtime(s): (look for the `"tns-android"` and `"tns-ios"` properties in your
+- CLI: (`run tns --version` to fetch it)
+- Cross-platform modules: (check the 'version' attribute in the
+- `node_modules/tns-core-modules/package.json` file in your project)
+- Runtime(s): (look for the `"tns-android"` and `"tns-ios"` properties in your
 project’s `package.json` file)
 
 ### Please tell us how to recreate the issue in as much detail as possible.
