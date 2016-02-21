@@ -28,6 +28,5 @@ project’s `package.json` file)
 
 ### Please tell us how to recreate the issue in as much detail as possible.
 
-### Is there code involved? If so, please share the minimal amount of code
-needed to recreate the problem.
+### Is there code involved? If so, please share the minimal amount of code needed to recreate the problem.
 
