@@ -1,4 +1,6 @@
-Welcome dear friend! We - the rest of the NativeScript community really
+Welcome dear friend!
+
+We - the rest of the NativeScript community really
 appreciate your feedback. While we are doing all we can to take care of every
 issue, sometimes we get overwhelmed. Because of that, we will consider issues
 that are not constructive or problems that cannot be reproduced "dead".
