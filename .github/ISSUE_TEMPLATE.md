@@ -10,9 +10,7 @@ questions regarding the behavior/reproduction for more than 20 days "dead". All
 
 ## Please, provide the details below:
 
-### Did you verify this is a real problem by searching
-[StackOverflow](http://stackoverflow.com/questions/tagged/nativescript) and the
-[other open issues in this repo](https://github.com/NativeScript/nativescript/issues)?
+### Did you verify this is a real problem by searching [StackOverflow](http://stackoverflow.com/questions/tagged/nativescript) and the [other open issues in this repo](https://github.com/NativeScript/nativescript/issues)?
 
 ### Tell us about the problem
 Please, ensure your title is up to 63 characters long and starts with a capital
